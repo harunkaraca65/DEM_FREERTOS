@@ -1,6 +1,3 @@
-ESP-IDF template app
-====================
-
 # ESP32 UART - MQTT Ağ Geçidi - Algoritma Akışı
 # ESP32 UART to MQTT Gateway - Algorithm Flow
 
